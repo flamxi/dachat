@@ -15,5 +15,5 @@ go build -o bin/client client.go
 ./bin/server # or 'go run server.go'
 ./bin/client # or 'go run client.go'
 ```
-For more see: ./docs/dachat.png
+For more see: [usage example](docs/dachat.png)
 
